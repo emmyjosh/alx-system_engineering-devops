@@ -1,1 +1,1 @@
-the scriptthat switches to user betty
+shell permission
